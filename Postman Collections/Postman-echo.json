@@ -1,0 +1,22 @@
+{
+  "info": {
+    "name": "Postman-echo",
+    "_postman_id": "9d210329-d7a5-f5d5-11ae-bb69a7204ed7",
+    "description": "Demo tesing",
+    "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+  },
+  "item": [
+    {
+      "_postman_id": "12abaa51-2c49-bd33-f014-80d66697c9ae",
+      "name": "https://postman-echo.com",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "body": {},
+        "url": "https://postman-echo.com",
+        "description": null
+      },
+      "response": []
+    }
+  ]
+}
