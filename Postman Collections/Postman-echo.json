@@ -7,6 +7,24 @@
   },
   "item": [
     {
+      "_postman_id": "0b4f6a5e-8674-7195-f1bc-2050321d3d7e",
+      "name": "staging_api",
+      "description": "nothing to say",
+      "item": [],
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "id": "b375bd03-8c1c-40b2-8557-b95c00e1bd8a",
+            "type": "text/javascript",
+            "exec": [
+              "console.log('Folder expected second')"
+            ]
+          }
+        }
+      ]
+    },
+    {
       "_postman_id": "12abaa51-2c49-bd33-f014-80d66697c9ae",
       "name": "https://postman-echo.com",
       "request": {
